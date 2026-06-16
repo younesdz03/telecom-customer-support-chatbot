@@ -80,6 +80,10 @@ Sensitive files, API keys, private datasets, and production modules are not incl
 - Deploy the chatbot online
 - Add admin dashboard
 
+## Screenshot
+
+![Chatbot Demo](demo.png)
+
 ## Author
 
 Developed by Younes Kherroubi.
