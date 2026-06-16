@@ -38,28 +38,49 @@ telecom-customer-support-chatbot/
 ├── requirements.txt
 ├── __init__.py
 └── README.md
-How to Run
-1_Clone the repository:
-git clone https://github.com/younesdz03/telecom-customer-support-chatbot.git
-2_Go to the project folder:
-cd telecom-customer-support-chatbot
-3_Install dependencies:
-pip install -r requirements.txt
-4_Run the project:
-python main.py
-Project Status
+```
 
-This is a demo/portfolio version of the project.
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/younesdz03/telecom-customer-support-chatbot.git
+```
+
+2. Go to the project folder:
+
+```bash
+cd telecom-customer-support-chatbot
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the project:
+
+```bash
+python main.py
+```
+
+## Project Status
+
+This is a demo/portfolio version of the project.  
 Sensitive files, API keys, private datasets, and production modules are not included.
 
-Future Improvements
-Add RAG with PDF documents
-Add LLM integration
-Add source citations
-Improve answer accuracy
-Deploy the chatbot online
-Add admin dashboard
-Author
+## Future Improvements
+
+- Add RAG with PDF documents
+- Add LLM integration
+- Add source citations
+- Improve answer accuracy
+- Deploy the chatbot online
+- Add admin dashboard
+
+## Author
 
 Developed by Younes Kherroubi.
 
